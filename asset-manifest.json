@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/minziephotolab/static/css/main.01d31d61.chunk.css",
+    "main.js": "/minziephotolab/static/js/main.06f3f250.chunk.js",
+    "main.js.map": "/minziephotolab/static/js/main.06f3f250.chunk.js.map",
+    "runtime-main.js": "/minziephotolab/static/js/runtime-main.29dbd814.js",
+    "runtime-main.js.map": "/minziephotolab/static/js/runtime-main.29dbd814.js.map",
+    "static/js/2.5e0bed9e.chunk.js": "/minziephotolab/static/js/2.5e0bed9e.chunk.js",
+    "static/js/2.5e0bed9e.chunk.js.map": "/minziephotolab/static/js/2.5e0bed9e.chunk.js.map",
+    "index.html": "/minziephotolab/index.html",
+    "precache-manifest.383bb5c77e34f7b3fc6e87ce8cea0daf.js": "/minziephotolab/precache-manifest.383bb5c77e34f7b3fc6e87ce8cea0daf.js",
+    "service-worker.js": "/minziephotolab/service-worker.js",
+    "static/css/main.01d31d61.chunk.css.map": "/minziephotolab/static/css/main.01d31d61.chunk.css.map",
+    "static/js/2.5e0bed9e.chunk.js.LICENSE.txt": "/minziephotolab/static/js/2.5e0bed9e.chunk.js.LICENSE.txt",
+    "static/media/slide_one.jpg": "/minziephotolab/static/media/slide_one.309dafc9.jpg",
+    "static/media/slide_three.jpg": "/minziephotolab/static/media/slide_three.ddd7f5b0.jpg",
+    "static/media/slide_two.jpg": "/minziephotolab/static/media/slide_two.c3781ace.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29dbd814.js",
+    "static/js/2.5e0bed9e.chunk.js",
+    "static/css/main.01d31d61.chunk.css",
+    "static/js/main.06f3f250.chunk.js"
+  ]
+}
